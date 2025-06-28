@@ -13,7 +13,7 @@
 ---
 
 ## 🧑‍💼 About Me
-
+- 🔍 Currently working as a Data Analyst Intern at Scaler Consultancy
 - 👷‍♂️ 6+ years experience in Civil Engineering (Site Execution & Management)  
 - 📊 Transitioned into **Data Analytics** with strong dashboarding and analytical capabilities  
 - 🧠 Currently expanding skills in **Machine Learning** and **Advanced Analytics**  
