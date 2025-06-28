@@ -1,3 +1,6 @@
+![logo](https://github.com/Bobby95453/Bobby/blob/main/BobbyDubey%20(1)%20(1)_page-0001.jpg)
+</p>
+
 <h2 align="center">Hi there! 👋 I'm Bobby Rameshchandra Dubey</h2>
 <p align="center">
   <strong>Data Analyst | Power BI | Advanced Excel | MySQL | Civil Engineering to Data</strong>  
