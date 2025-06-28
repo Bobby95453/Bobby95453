@@ -34,7 +34,7 @@
 
 **Data Prep & Libraries**  
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas)  
-![Seaborn](https://img.shields.io/badge/Seaborn-004B87?style=flat-square)
+
 
 ---
 
