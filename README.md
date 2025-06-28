@@ -32,7 +32,6 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-004B87?style=flat-square)
 
 **Cloud / Database**  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 
 ---
@@ -63,10 +62,14 @@ Visualized $371M+ worth of sales across 13K+ vehicles. Advanced DAX & ETL with S
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bobby95453&show_icons=true&theme=tokyonight" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby95453&layout=compact&theme=tokyonight" width="335">
-</p>
+<details>
+  <summary>📊 GitHub Stats (Click to Expand)</summary>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Bobby95453&show_icons=true&theme=tokyonight" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby95453&layout=compact&theme=tokyonight" width="335">
+  </p>
+</details>
 
 ---
 
